@@ -1,4 +1,4 @@
-# Python&Machine learning Study
+# Python & Machine learning Study(or Python & Django project)
 2018-10-08 ~ 2018-12-31
 ## 주제
 python 학습과 python을 활용한 구현 (택1 - 파이썬 1차 학습 완료 후 선택 예정)  
@@ -41,5 +41,6 @@ python 학습과 python을 활용한 구현 (택1 - 파이썬 1차 학습 완료
 - edwith [머신러닝을 위한 파이썬](https://www.edwith.org/aipython)
 - 파이썬 프로그래밍(조인석)
 - Hands-On Machine Learning with Scikit-Learn &Tensorflow
+- [DJango 시작하기](http://heiswed.tistory.com/entry/%EC%9E%A5%EA%B3%A0-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0?category=616442)
 -  etc.,
 
