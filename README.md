@@ -1,4 +1,4 @@
-# Python & Machine learning Study(or Python & Django project)
+# Python & Machine learning Study(or Django project)
 2018-10-08 ~ 2018-12-31
 ## 주제
 python 학습과 python을 활용한 구현 (택1 - 파이썬 1차 학습 완료 후 선택 예정)  
