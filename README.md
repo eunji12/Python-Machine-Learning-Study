@@ -1,5 +1,5 @@
 # Python&Machine learning Study
-2018-10-05 ~ 2018-12-31
+2018-10-08 ~ 2018-12-31
 ## 주제
 python 학습과 python을 활용한 구현 (택1 - 파이썬 1차 학습 완료 후 선택 예정)  
 - machine learning (tensorflow) 입문  (또는)
