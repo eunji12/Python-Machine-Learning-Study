@@ -1,4 +1,4 @@
-# Python & Machine learning Study(or Django project)
+# Python & Machine learning Study
 2018-10-08 ~ 2018-12-31
 ## 주제
 python & machine learning (tensorflow) 입문 
