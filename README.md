@@ -29,7 +29,7 @@ python & machine learning (tensorflow) 입문
 - ~ 2018.10.13 : 세미나 진행 계획 수립
 - 1주차(~ 2018.10.21) : 파이썬 설치 언어 기초 학습
 - 2주차(~ 2018.10.28) : numpy, pandas 등 머신러닝에 필요한 데이터 분석 모듈 학습
-- 3주차(~ 2018.11.04) : tensorflow, mnist구현에 필요한 이론 학습
+- 3주차(~ 2018.11.04) : mnist구현에 필요한 이론 학습(tensorflow, 뉴럴네트워크, one-hot, cnn, keras:오픈소스 신경망 라이브러리 등), 실습환경 세팅(jupyter notebook, miniconda,.)
 - 4주차 ~ 7주차(2018.11) : MNIST 구현 + 이론 학습 연장
 - 8주차(2018.12.03~ ) : 프로젝트 완료 및 산출물 정리 
 
@@ -39,5 +39,6 @@ python & machine learning (tensorflow) 입문
 - 파이썬 프로그래밍(조인석)
 - Hands-On Machine Learning with Scikit-Learn &Tensorflow
 - [DJango 시작하기](http://heiswed.tistory.com/entry/%EC%9E%A5%EA%B3%A0-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0?category=616442)
--  etc.,
+- [keras](https://keras.io/)
+- etc.,
 
