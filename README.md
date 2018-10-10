@@ -10,7 +10,7 @@ python & machine learning (tensorflow) 학습을 통한 MNIST 구현
 - 쉽고 강력, 높은 생산성, 다양한 라이브러리
 - 웹서비스(Django), 데이터분석(Pandas), 머신러닝(Tensorflow)에 강세 
 
-## 목표 & 예상 산출물
+## 예상 산출물
 - MNIST 데이터 셋을 이용한 손글씨 인식 구현(tensorflow library)
 	- [yann.lecun.com](http://yann.lecun.com/exdb/mnist/) 에서 제공하는 대량의 손글씨 이미지 데이터를 학습하여 새로운 손글씨가 입력될 경우 학습된 데이터를 기반으로 값을 판별하는 프로그램 구현  
 	- 머신러닝의 대표적 입문 문제
@@ -40,3 +40,5 @@ mnist구현에 필요한 이론 학습(tensorflow, 뉴럴네트워크, one-hot, 
 - [keras](https://keras.io/)
 - etc.,
 
+## 최종 목표
+구현 기술, 머신 러닝에 대한 이론적 이해를 하고 활용 가능한 지식 쌓기
