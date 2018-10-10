@@ -1,7 +1,7 @@
 # Python & Machine Learning Study
 2018-10-08 ~ 2018-12-31
 ## 주제
-python & machine learning (tensorflow) 입문 
+python & machine learning (tensorflow) 학습을 통한 MNIST 구현
 
 ## 주제 선택 이유
 파이썬의 다양한 장점과 신기술 접목, 재미
@@ -16,7 +16,7 @@ python & machine learning (tensorflow) 입문
 
 ## 목표 & 예상 산출물
 - MNIST 데이터 셋을 이용한 손글씨 인식 구현(tensorflow library)
-	- yann.lecun.com 에서 제공하는 대량의 손글씨 이미지 데이터를 학습하여 새로운 손글씨가 입력될 경우 학습된 데이터를 기반으로 값을 판별하는 프로그램 구현  
+	- [yann.lecun.com](http://yann.lecun.com/exdb/mnist/) 에서 제공하는 대량의 손글씨 이미지 데이터를 학습하여 새로운 손글씨가 입력될 경우 학습된 데이터를 기반으로 값을 판별하는 프로그램 구현  
 	- 머신러닝의 대표적 입문 문제
 	- 필기 숫자들의 28x28 픽셀 이미지를 보고, 0부터 9까지의 모든 숫자들에 대해 이미지가 어떤 숫자를 나타내는지 판별하는 것
 
