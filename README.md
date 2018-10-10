@@ -1,4 +1,3 @@
-# Python & Machine Learning Study
 2018-10-08 ~ 2018-12-31
 ## 주제
 python & machine learning (tensorflow) 학습을 통한 MNIST 구현
