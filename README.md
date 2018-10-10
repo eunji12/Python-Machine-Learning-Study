@@ -6,13 +6,9 @@ python & machine learning (tensorflow) 학습을 통한 MNIST 구현
 ## 주제 선택 이유
 파이썬의 다양한 장점과 신기술 접목, 재미
 
-##### 파이썬의 다양한 장점
-- 쉽고 강력
-- 높은 생산성
-- 다양한 라이브러리
+##### * 파이썬의 다양한 장점
+- 쉽고 강력, 높은 생산성, 다양한 라이브러리
 - 웹서비스(Django), 데이터분석(Pandas), 머신러닝(Tensorflow)에 강세 
-- [StackOverflow](https://insights.stackoverflow.com/survey/2017?utm_source=so-owned&utm_medium=blog&utm_campaign=dev-survey-2017&utm_content=blog-link)에 따르면 세계에서 5번째로 인기있는 언어
-
 
 ## 목표 & 예상 산출물
 - MNIST 데이터 셋을 이용한 손글씨 인식 구현(tensorflow library)
