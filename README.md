@@ -24,7 +24,7 @@ python & machine learning (tensorflow) 학습을 통한 MNIST 구현
 ## 세부 일정
 
 - ~ 2018.10.13 : 세미나 진행 계획 수립
-- 1주차(~ 2018.10.21) : 파이썬 설치 언어 기초 학습
+- 1주차(~ 2018.10.21) : 파이썬 설치 및 언어 기초 학습
 - 2주차(2018.10.22 ~ 2018.11.04) :   
 mnist구현에 필요한 이론 학습(tensorflow, 뉴럴네트워크, one-hot, cnn, keras:오픈소스 신경망 라이브러리 등), 실습환경 세팅(jupyter notebook, miniconda,.)
 - 4주차 ~ 7주차(2018.11) : MNIST 구현 + 이론 학습 연장
