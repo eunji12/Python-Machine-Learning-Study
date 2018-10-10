@@ -15,14 +15,16 @@ python & machine learning (tensorflow) 입문
 
 
 ## 목표 & 예상 산출물
-- python 학습 및 실습 자료 제출(github)
- 	- [https://github.com/eunji12/Python-Machine-Learning-Study](https://github.com/eunji12/Python-Machine-Learning-Study)  
 - MNIST 데이터 셋을 이용한 손글씨 인식 구현(tensorflow library)
 	- yann.lecun.com 에서 제공하는 대량의 손글씨 이미지 데이터를 학습하여 새로운 손글씨가 입력될 경우 학습된 데이터를 기반으로 값을 판별하는 프로그램 구현  
 	- 머신러닝의 대표적 입문 문제
 	- 필기 숫자들의 28x28 픽셀 이미지를 보고, 0부터 9까지의 모든 숫자들에 대해 이미지가 어떤 숫자를 나타내는지 판별하는 것
 
 <img src="https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/images/mnist_digits.png"/>  
+
+
+- python 학습 및 실습 자료 제출(github)
+ 	- [https://github.com/eunji12/Python-Machine-Learning-Study](https://github.com/eunji12/Python-Machine-Learning-Study)  
 	
 ## 세부 일정
 
