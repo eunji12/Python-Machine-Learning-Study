@@ -37,7 +37,11 @@ mnist구현에 필요한 이론 학습(tensorflow, 뉴럴네트워크, one-hot, 
 - Hands-On Machine Learning with Scikit-Learn &Tensorflow
 - [DJango 시작하기](http://heiswed.tistory.com/entry/%EC%9E%A5%EA%B3%A0-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0?category=616442)
 - [keras](https://keras.io/)
-- etc.,
+- [컨볼루션 신경망](http://aikorea.org/cs231n/convolutional-networks/)
 
 ## 최종 목표
 구현 기술, 머신 러닝에 대한 이론적 이해를 하고 활용 가능한 지식 쌓기
+
+
+
+
