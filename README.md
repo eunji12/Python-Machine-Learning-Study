@@ -1,7 +1,7 @@
 ## 목차
 0. [세미나 개요](https://github.com/eunji12/Python-Machine-Learning-Study)
 1. [딥러닝이란 무엇인가?](https://github.com/eunji12/Python-Machine-Learning-Study/blob/master/1.%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md)   
-2. [MAC OS에 MINICONDA, JUPYTER NOTEBOOK 설치하기](https://github.com/eunji12/Python-Machine-Learning-Study/blob/master/1.1%20MAC%20OS%EC%97%90%20MINICONDA,%20JUPYTER%20NOTEBOOK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0%20%20.md)
+2. [MAC OS에 MINICONDA, JUPYTER NOTEBOOK 설치하기](https://github.com/eunji12/Python-Machine-Learning-Study/blob/master/2%20MAC%20OS%EC%97%90%20MINICONDA%2C%20JUPYTER%20NOTEBOOK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0%20%20.md)
 ----------------------------
 2018-10-08 ~ 2018-12-31
 ## 주제
