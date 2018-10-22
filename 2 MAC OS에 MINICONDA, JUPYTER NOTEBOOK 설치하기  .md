@@ -43,7 +43,7 @@ http://temp123.tistory.com/17
 - tensorflow 사이트에서 macOS 10.12.6 (Sierra) or later (no GPU support) 이상 지원 확인
   > 현재 내 macOS에서 지원 불가 확인 후 OS업데이트 Yosemite 10.10 -> Mojave 10.14   
   > https://www.tensorflow.org/install   
-- 데이터 백업 및 macOS업데이트에 저녁시간 모두 소요(ㅋㅋ;;)
+- 데이터 백업 및 macOS업데이트에 저녁시간 모두 소요(ㅋㅋ)
 - 완료 후 가상 환경에 pip 버전 업데이트 , tensorflow, keras / pillow, opencv : 예제 실습용 패키지 설치
 
 ```
