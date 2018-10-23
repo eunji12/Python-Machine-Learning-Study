@@ -39,7 +39,7 @@ http://temp123.tistory.com/17
 > 2018.10.22 작업 내용 20:00 ~ 24:00   
 - conda에서 tensorflow 설치시 오류 발생
   - (Could not find a version that satisfies the requirement tensorflow (from versions: ))
-- 가상환경의 파이썬 버전이 3.7(지원x)으로 판단, 3.6으로 다운그레이드 -> 동일 문제 발생, 3.5로 다운그레이드 -> 동일 문제 발생
+- 가상환경의 파이썬 버전이 3.7(지원x)으로 판단, 3.6으로 다운그레이드 -> 동일 문제 발생, 3.5로 다운그레이드 -> 동일 문제 발생 ==> 해당 문제 아님
 - tensorflow 사이트에서 macOS 10.12.6 (Sierra) or later (no GPU support) 이상 지원 확인
   > 현재 내 macOS에서 지원 불가 확인 후 OS업데이트 Yosemite 10.10 -> Mojave 10.14   
   > https://www.tensorflow.org/install   
@@ -49,11 +49,9 @@ http://temp123.tistory.com/17
 ```
   463  conda activate MLStudy
   465  pip install tensorflow
-  466  pip3 install tensorflow
+ 
   467  pip install --upgrade pip
-  468  python3 -V
   469  pip install tensorflow
-  470  pip3 install tensorflow
   475  which python3
   478  vi .bash_profile
   479  conda install python=3.6
@@ -75,7 +73,7 @@ http://temp123.tistory.com/17
   497  pip install tensorflow
   498  pip3 -V
   499  pip3 install tensorflow
- .. mocOS update
+ .. macOS update
   509  pip install tensorflow
   510  tensorflow -V
   511  pip install keras
