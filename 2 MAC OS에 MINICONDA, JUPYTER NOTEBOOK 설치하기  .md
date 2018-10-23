@@ -17,23 +17,25 @@ http://temp123.tistory.com/17
   526  conda list
   531  vi .bash_profile
   532  source .bash_profile
-  535  conda list
-  536  conda env list
-  537  conda create -n MLStudy
-  538  conda env list
-  539  source activate MLStudy
-  540  conda env list
-  541  conda install -y flask
+  535  conda list				                -- 사용 가능한 conda 명령어 list 확인
+  536  conda env list         					-- 생성된 가상환경 목록 확인(활성화 여부 표시)
+  537  conda create -n MLStudy					-- 새 가상환경 추가
+  538  conda env list		
+  539  source activate MLStudy					-- 사용할 가상환경 활성화
+  540  conda env list		
+  541  conda install -y flask	  				-- 필요 패키지/모듈 설치, 삭제시 conda uninstall flask
   542  python3 -c "import flask; print(flask.__version__)"
   543  app.py
   544  vi app.py
   548  python3 app.py
   549  vi app.py
   550  python3 app.py
-  551  conda deactivate
+  551  conda deactivate					    		-- 비활성화(base 환경으로 변경)
   552  conda env list
 ```   
-* miniconda 자동 설치는 md5sum mismatch of tar archive 오류 등 맞지 않는 부분이 있어 수동 설치.
+* miniconda 자동 설치는 md5sum mismatch of tar archive 오류 등 맞지 않는 부분이 있어 수동 설치로 진행했다.
+* 파이썬은 버전에 따라 지원되는 문법/패키지가 다르고 의존성 관리가 어려워 conda를 사용
+* 디렉토리별 환경변수 설정/의존 관계 제한 ([GRASP THE GIST](https://graspthegist.com/) 블로그 글 참조)
 
 #### tensorflow, keras 설치 
 > 2018.10.22 작업 내용 20:00 ~ 24:00   
@@ -50,7 +52,7 @@ http://temp123.tistory.com/17
   463  conda activate MLStudy
   465  pip install tensorflow
  
-  467  pip install --upgrade pip
+  467  pip install --upgrade pip 
   469  pip install tensorflow
   475  which python3
   478  vi .bash_profile
