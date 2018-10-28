@@ -90,4 +90,4 @@ http://temp123.tistory.com/17
 pip install jupyter notebook
 jupyter notebook -- 실행 후 웹브라우저에 주피터노트북 실행
 ~~~
-- [예제 파일 다운로드 및 실행](https://colab.research.google.com/github/eunji12/deep-learning-with-python-notebooks/blob/master/2.1-a-first-look-at-a-neural-network.ipynb#scrollTo=ec0726YCcv6Z)
+- [예제 파일 다운로드 및 실행](https://colab.research.google.com/github/eunji12/deep-learning-with-python-notebooks/blob/master/)
