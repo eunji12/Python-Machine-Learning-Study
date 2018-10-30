@@ -44,6 +44,7 @@ mnist구현에 필요한 이론 학습(tensorflow, 뉴럴네트워크, one-hot, 
 - [keras](https://keras.io/)
 - [컨볼루션 신경망](http://aikorea.org/cs231n/convolutional-networks/)
 - [점프투파이썬](https://wikidocs.net/30)
+- [keras 가이드](https://keras.io/getting-started/sequential-model-guide/)  
 ## 최종 목표
 구현 기술, 머신 러닝에 대한 이론적 이해를 하고 활용 가능한 지식 쌓기
 
