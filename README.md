@@ -5,7 +5,7 @@
 4. [신경망의 수학적 구성 요소_MNIST구현](https://github.com/eunji12/Python-Machine-Learning-Study/blob/master/3.%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%98%20%EC%88%98%ED%95%99%EC%A0%81%20%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C%20-1.md)
 5. python 문법과 numpy학습    
 6. [Numpy(Numerical Python)](https://github.com/eunji12/Python-Machine-Learning-Study/blob/master/5.%20Numerical%20Python%20-%20Numpy.md)  
-7. tensorflow 실습자료 (유튜브 김성훈 교수 강의) ▼
+7. ▼ tensorflow 실습자료 (유튜브 김성훈 교수 강의) 
  - [ML_lab_01_TensorFlow의_설치_및_기본적인_오퍼레이션](https://colab.research.google.com/github/eunji12/Python-Machine-Learning-Study/blob/master/.ipynb_checkpoints/ML_lab_01_TensorFlow%EC%9D%98_%EC%84%A4%EC%B9%98_%EB%B0%8F_%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8_%EC%98%A4%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98-checkpoint.ipynb)  
  - [ML_lec_02_Linear_Regression의_Hypothesis_와_cost_설명](https://colab.research.google.com/github/eunji12/Python-Machine-Learning-Study/blob/master/ML_lec_02_Linear_Regression%EC%9D%98_Hypothesis_%EC%99%80_cost_%EC%84%A4%EB%AA%85.ipynb)  
  - [lab03 cost 확인하기 1.ipynb](https://colab.research.google.com/github/eunji12/Python-Machine-Learning-Study/blob/master/lab03%20cost%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0%201.ipynb)
